@@ -1,1 +1,1 @@
-# Asteroid_PG_Lab![Uploading asteroidy.gif…]()
+# Asteroid_PG_Lab
