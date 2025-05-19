@@ -4,6 +4,7 @@ Added features:
 2. Ammunation system
 3. "Game Over" screen
 4. Score counter
+5. More "friendly" spaceship
 
 
 
