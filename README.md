@@ -7,10 +7,11 @@
 
 Added features:
 1. Health Bar
-2. Ammunation system
-3. "Game Over" screen
-4. Score counter
-5. Asteroids now shrink after being hit
+2. Random asteroid shapes
+3. Ammunation system
+4. "Game Over" screen
+5. Score counter
+6. Asteroids now shrink after being hit
 5. More "friendly" spaceship
 
 
