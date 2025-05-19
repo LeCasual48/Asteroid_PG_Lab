@@ -1,2 +1,2 @@
 # Asteroid_PG_Lab
-<img src=".asteroidy.gif"/>
+![przykład działania](asteroidy.gif)
